@@ -1,4 +1,8 @@
 # Jobsheet10
+Akmal Gibran Baihaqi
+X RPL 1/05
+
+
 Hasil run praktikum 1:
 Data pada array: 
 	74	98	72	74	72	90	81	72
