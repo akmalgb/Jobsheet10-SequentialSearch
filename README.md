@@ -2,6 +2,26 @@
 Akmal Gibran Baihaqi
 X RPL 1/05
 
+Hasil run Latihan1:
+Masukkan data yang ingin dicari: a
+Data founded
+Masukkan data yang ingin dicari: b
+Access Denied
+
+Hasil run Latihan2:
+Masukkan data yang ingin dicari: 76
+Data ditemukan pada indeks ke- 5
+
+Hasil run Latihan3:
+Data pada array: 
+-21	90	82	190	-83	74	
+ Data terbesar dari array adalah 190
+ 
+ Hasil run Latihan4:
+ Input something: 
+apalah aku
+Jumlah huruf a adalah 4
+
 
 Hasil run praktikum 1:
 Data pada array: 
